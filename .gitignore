@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+venv/
+myenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Model & Dataset
+training/sroie_train.json
+models/
+data/SROIE2019/train_labels/
+*.pt
+*.bin
+*.safetensors
+
+# Output
+output/
+*.csv
+*.pdf
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Docker
+*.dockerfile
+*.tar
+
+# Environment files
+.envrc
+.env.*
+
+# TensorBoard
+runs/

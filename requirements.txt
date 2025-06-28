@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+torch
+transformers
+pdf2image
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+pandas
+datasets
