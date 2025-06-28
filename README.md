@@ -33,20 +33,6 @@ An AI-powered pipeline to extract, analyze, and summarize insights from scanned 
 
 ---
 
-## 📁 Project Structure
-financial-doc-analyzer/
-├── app/ # Streamlit app + inference
-├── training/ # Fine-tuning scripts
-│ ├── prepare_data.py
-│ ├── dataset.py
-│ └── train_model.py
-├── data/SROIE2019/ # SROIE images + label files
-├── models/ # Saved fine-tuned model
-├── requirements.txt
-└── Dockerfile
-
----
-
 ## 🧪 Setup & Usage
 
 ### 1️⃣ Clone the repository
